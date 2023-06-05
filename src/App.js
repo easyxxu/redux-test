@@ -1,8 +1,4 @@
 function App() {
-  return (
-    <div>
-      hello world
-    </div>
-  );
+  return <div id='root'></div>;
 }
 export default App;
